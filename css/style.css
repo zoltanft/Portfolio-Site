@@ -1,0 +1,71 @@
+/* Stylesheet for portfolio site in progress */
+
+html, head {
+    margin: 0;
+    padding: 0;
+}
+
+head {
+    height: 0;
+} 
+
+body {
+    background-color: #3d3d3d;
+    min-height: 100vh;
+}
+
+.text-center {
+    text-align: center;
+}
+
+h1, h2, h3, h4, p {
+    font-family: Roboto, sans-serif;
+    color: #ACACAC;
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 60px;
+    padding: 60px 0;
+    background-color: #242424;
+    margin: 0;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 60px 0;
+    font-size: 30px;
+    line-height: 1.5
+}
+
+p {
+    font-size: 16px;
+}
+
+.p-sides-fluid {
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.big-text {
+    font-size: 48px;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.bolded {
+    font-weight: 400;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.black-weight {
+    font-weight: 700;
+}
+
+.orange-text {
+    color: #FF9F53;
+}
